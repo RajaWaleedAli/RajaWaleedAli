@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm attending a technical secondary school with a focus on **IT**
+- 🎓 I'm attending a high school with a focus on **IT**
 - 💡 Passionate about coding, system-level development, and problem solving
 - 🌍 Based in **South Tyrol, Vahrn**
 
