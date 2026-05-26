@@ -35,11 +35,3 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E)
-
----
-
-## 📊 GitHub Stats
-
-![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajaWaleedAli&show_icons=true&theme=tokyonight)
-
----
